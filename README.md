@@ -49,7 +49,8 @@ You got the number 40 at 3 guesses
 
 ### 🧑‍💻 Author
 
-Created by: Taimour Mushtaq
-Project type: Beginner Python Game
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ |https://github.com/TAIMOURMUSHTAQ
 
 **Let me know if you’d like this in a downloadable format or want to turn this into a GUI version.**
