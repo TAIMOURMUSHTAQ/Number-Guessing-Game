@@ -1,6 +1,4 @@
 from random import randint
-
-#number=int(input("Guess a number between 1 and 10:"))
 guesses=1
 hidden=randint(1,100)
 while True:
@@ -16,7 +14,7 @@ while True:
             guesses+=1
         else:
             guesses+=1
-            print(f"You got the number {hidden} at {guesses} guesses")
+            print(f"You got the number {hidden} at {guesses} guess(es)")
             break
     except ValueError:
         print("invalid number")
